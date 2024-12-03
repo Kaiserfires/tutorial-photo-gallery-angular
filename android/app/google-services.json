@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107528659550",
+    "project_id": "chatf-d47a7",
+    "storage_bucket": "chatf-d47a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107528659550:android:69cad6f2c2c7c245714acf",
+        "android_client_info": {
+          "package_name": "mi.chat.final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr15ja5oUrPO3-0SZz_GzRT-ADFV6YPU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
